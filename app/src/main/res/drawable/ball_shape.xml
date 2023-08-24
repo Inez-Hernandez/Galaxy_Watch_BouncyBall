@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+android:shape="oval">
+
+<!-- Change the color to your desired ball color -->
+<solid android:color="#FFFFFF" />
+
+<!-- You can also specify the stroke (border) properties if you want -->
+<!--
+<stroke
+    android:width="2dp"
+    android:color="#000000" />
+-->
+
+<!-- You can adjust the size of the ball by specifying the width and height -->
+<!--
+<size
+    android:width="50dp"
+    android:height="50dp" />
+-->
+
+</shape>
